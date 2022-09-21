@@ -8,6 +8,7 @@ def max_pairwise_product(numbers):
 
     return max_product
 
+def max_pairwise_productFast(numbers):
 
 if __name__ == '__main__':
     _ = int(input())
