@@ -7,6 +7,8 @@ def gcd(a, b):
 
     return current_gcd
 
+# Time Comeplexity:     O(n)
+# Auxiliary Space:      O(1)
 
 if __name__ == "__main__":
     a, b = map(int, input().split())
